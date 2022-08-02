@@ -8,9 +8,9 @@ import os
 from aiohttp import ClientSession
 from discord.ext import commands
 
-TOKEN = "MTAwMzIxNjA4Njk5ODcyODc0NA.GFRPHj.VYy_jEXQzoZ2laufYYzx-3GGSlBQ0iVkcxuKCo"
-CLIENT_ID = 1003216086998728744
-GUILD = 870189007911399494
+TOKEN = ""
+CLIENT_ID = 0
+GUILD = 0
 headers = {
     'sec-ch-ua': '" Not;A Brand";v="99", "Microsoft Edge";v="103", "Chromium";v="103"',
     'DNT': '1',
